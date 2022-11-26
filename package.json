@@ -3,7 +3,7 @@
 	"keywords": ["freecodecamp","backend","npm"],
 	"description": "A project that does something awesome",
 	"license":"MIT",
-	"version":"9.9.0",
+	"version":"18.12.0",
 	"dependencies": {
 		"express": "4.14.0",
 		"@freecodecamp/example": "1.1.0"
